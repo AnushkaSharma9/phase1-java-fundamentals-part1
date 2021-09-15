@@ -48,7 +48,7 @@ public class PrivateAccessModifierDemo {
 	}
 	
 	public void showCred() {
-		System.out.println("The Username :"+ username +"& the password :" +password);
+		System.out.println("The Username :"+ username +" & the password :" +password);
 	}
 	// private constructor
 	//private Account() {};
