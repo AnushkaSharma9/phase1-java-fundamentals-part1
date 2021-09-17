@@ -12,7 +12,7 @@ public class ProtectedAccessModifierOutsideThePackageDemo extends SuperHero {
      // but we can access them using inheritance
    
 		
-		//create object of child class 
+		//create object of  child class 
 		ProtectedAccessModifierOutsideThePackageDemo childObj = new ProtectedAccessModifierOutsideThePackageDemo();
 		
 		//access protected properties 
