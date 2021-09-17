@@ -1,4 +1,4 @@
-package com.simplilearn.collection.list.queue;
+package com.simplilearn.collection.queue;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

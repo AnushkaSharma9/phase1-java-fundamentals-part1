@@ -1,4 +1,4 @@
-package com.simplilearn.collection.list.queue;
+package com.simplilearn.collection.queue;
 
 public class Student {
 
